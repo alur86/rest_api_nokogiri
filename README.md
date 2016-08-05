@@ -1,0 +1,1 @@
+This simple Ruby script uses REST API and Nokogiri gems and parsed the web page content
